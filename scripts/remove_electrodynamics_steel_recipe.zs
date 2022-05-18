@@ -1,0 +1,1 @@
+blastFurnace.removeRecipeByInput(<item:minecraft:iron_ingot>);

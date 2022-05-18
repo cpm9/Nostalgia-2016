@@ -1,0 +1,13 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "AutoRefillSettings": {
+        "visual_durability_notification": false,
+        "audio_durability_notification": false,
+        "visual_replace_success_notification": false,
+        "audio_replace_success_notification": false,
+        "visual_replace_failed_notification": false,
+        "audio_replace_failed_notification": false
+    }
+}
