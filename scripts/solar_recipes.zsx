@@ -12,17 +12,6 @@ craftingTable.addShaped
 	]
 );
 
-craftingTable.removeRecipe(<item:rs_ctr2:solarcell>);
-craftingTable.addShaped
-(
-	"solarcell", <item:rs_ctr2:solarcell>,
-	[
-		[<item:minecraft:lapis_lazuli>, <item:mekanismgenerators:solar_panel>, <item:minecraft:lapis_lazuli>],
-		[<item:minecraft:quartz>, <item:minecraft:redstone>, <item:minecraft:quartz>],
-		[<item:rs_ctr2:power_cable>, <item:rs_ctr2:power_cable>, <item:rs_ctr2:power_cable>]
-	]
-);
-
 craftingTable.removeRecipe(<item:electrodynamics:solarpanelplate>);
 craftingTable.addShaped
 (
